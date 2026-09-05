@@ -1,2 +1,6 @@
 # GeoDev_Lab_Project
-Flood exposure mapping project for Eti-Osa LGA, Lagos. The project combines population density, settlement extents, elevation data, and infrastructure mapping to identify flood hazard zones, quantify exposed populations, and pinpoint critical infrastructure at risk.
+
+How can flood risk zones in Eti-Osa LGA be mapped and quantified in terms of exposed population and critical infrastructure?
+
+Built over twelve months with GeoDev Lab Africa, Cohort One.
+See project-brief.md for the full brief.

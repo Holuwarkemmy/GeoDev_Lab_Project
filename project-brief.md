@@ -1,4 +1,4 @@
-# Flood Exposure Mapping for Eti-Osa Local Government Area, Lagos
+# Flood Hazard and Exposure Mapping for Eti-Osa Local Government Area, Lagos
 
 ## 1. Question
 
@@ -23,9 +23,9 @@ Eti-Osa LGA has the largest proportion of land at high flood risk in Lagos at 79
 
 - Eti-Osa administrative boundary - [GRID3 NGA - Operational LGA Boundaries](https://data.grid3.org/datasets/GRID3::grid3-nga-operational-lga-boundaries/about)
 - Eti-Osa ward administrative boundary - [GRID3 NGA - Operational Wards Boundaries](https://data.grid3.org/datasets/GRID3::grid3-nga-operational-wards-v1-0/about)
-- Population density (100m) - [WorldPop](https://www.worldpop.org)
+- Population count (100m) - [WorldPop](https://www.worldpop.org)
 - Settlement extents v4.1 - [GRID3](https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about)
-- SRTM DEM (30m) - [USGS EarthExplorer](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm&ved=2ahUKEwj53ou2o9eWAxXvdUEAHfXKH4QQFnoECCEQAQ&sqi=2&usg=AOvVaw1Mun6O700tYNVUVFv4TE5Q)
+- SRTM DEM (30m) - [USGS EarthExplorer](https://www.portal.opentopography.org)
 - Hydrology (Rivers/Waterway) - [OpenStreetMap](https://www.openstreetmap.org)
 - Road network - [OpenStreetMap](https://www.openstreetmap.org)
 - Health facilities - [GRID3](https://data.grid3.org/datasets/GRID3::grid3-nga-health-facilities-v2-0/about)

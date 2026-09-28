@@ -59,4 +59,4 @@ Lesson noted: reproject before deriving anything from a DEM, not after.
 - **Produced by:** manually in QGIS
 
 
-**Status:** Week 3 complete. First spatial analysis in Week 4, see [04-water-proximity-analysis.md](04-water-proximity-analysis.md).
+**Status:** Week 3 complete. First spatial analysis in Week 4, see [month-01-summary.md](month-01-summary.md).

@@ -22,7 +22,7 @@ This is a proximity result, not the final flood-risk result, the hazard model st
 | 1 | The question, study area, and every dataset with a source link | [01-project-brief.md](docs/01-project-brief.md) |
 | 2 | What was downloaded, its structure, and what's wrong with it | [02-data-notes.md](docs/02-data-notes.md) |
 | 3 | Reprojection, clipping, and five quality checks | [03-data-preparation.md](docs/03-data-preparation.md) |
-| 4 | The water-proximity buffer analysis and its result | [04-water-proximity-analysis.md](docs/04-water-proximity-analysis.md) |
+| 4 | Spatial operation and its result | [month-01-summary.md](docs/month-01-summary.md) |
 
 Map: ![water_buffer_exposure.png](maps/water_buffer_exposure.png)
 
@@ -31,17 +31,19 @@ Map: ![water_buffer_exposure.png](maps/water_buffer_exposure.png)
 ```
 GeoDev_Lab_Project/
 ├── docs/
-│   ├── 01-project-brief.md              Week 1
-│   ├── 02-data-notes.md                 Week 2
-│   ├── 03-data-preparation.md           Week 3
-│   └── 04-water-proximity-analysis.md   Week 4
+│   ├── 01-project-brief.md                          Week 1
+│   ├── 02-data-notes.md                             Week 2
+│   ├── 03-data-preparation.md                       Week 3
+│   └── month-01-summary.md                          Week 4
 ├── data/
-│   ├── raw/                             downloads
-│   └── processed/                       outputs
-├── analysis/                            Week 4 outputs (gpkg)
-├── maps/                                exported map images
-├── scripts/                             codes/notebooks
-└── requirements.txt                     required libaries
+│   ├── raw/                                         downloads
+│   └── processed/                                   outputs
+├── analysis/  
+│   └── water_buffer_analysis.gpkg                   Week 4 output
+├── maps/                                
+│   └── water_buffer_exposure.png                    exported map images
+├── scripts/                                         codes/notebooks
+└── requirements.txt                                 required libaries
 ```
 
 ## How to run it

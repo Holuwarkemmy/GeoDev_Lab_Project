@@ -3,7 +3,11 @@
 **Week 4 deliverable.** GeoDev Lab Africa, Cohort One.
 Author: Akanbi Saheedat
 
+
+> How can flood risk zones in Eti-Osa LGA be mapped and quantified in terms of exposed population and critical infrastructure?
+
 The first real spatial operation: a water-proximity buffer, and what it catches.
+
 
 ## 1. The operation
 
@@ -55,7 +59,7 @@ Worth being precise about what it means, though: this is a proximity result, not
 
 ## 8. Files
 
-- `analysis/04_water_buffer_analysis.gpkg`
+- `analysis/water_buffer_analysis.gpkg`
 - `maps/water_buffer_exposure.png`
 
 

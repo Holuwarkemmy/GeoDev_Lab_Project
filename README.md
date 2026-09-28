@@ -24,7 +24,7 @@ This is a proximity result, not the final flood-risk result, the hazard model st
 | 3 | Reprojection, clipping, and five quality checks | [03-data-preparation.md](docs/03-data-preparation.md) |
 | 4 | The water-proximity buffer analysis and its result | [04-water-proximity-analysis.md](docs/04-water-proximity-analysis.md) |
 
-Map: [water_buffer_exposure.png](maps/water_buffer_exposure.png)
+Map: ![water_buffer_exposure.png](maps/water_buffer_exposure.png)
 
 ## What's in here
 

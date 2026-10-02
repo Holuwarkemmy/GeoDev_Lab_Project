@@ -4,6 +4,7 @@ Maps flood hazard zones across Eti-Osa LGA, Lagos, and quantifies how many peopl
 
 **GeoDev Lab Africa, Cohort One.** Akanbi Saheedat
 
+# Month 1: GIS Foundation and the Data Ecosystem
 
 ## The question
 
@@ -65,6 +66,14 @@ The data is not in this repository. Every source is linked in [the project brief
 - [x] Week 2, data downloaded, opened and described
 - [x] Week 3, reprojected, clipped and quality checked
 - [x] Week 4, first spatial analysis, checked four ways
+
+# Month 2: Development Environment and Early Python
+
+## Week 5
+Set up Python, VS Code and the terminal.
+[hello.py](hello.py) runs.
+
+
 
 
 Akanbi Saheedat · GeoDev Lab Africa

@@ -70,9 +70,14 @@ The data is not in this repository. Every source is linked in [the project brief
 # Month 2: Development Environment and Early Python
 
 ## Week 5
+
 Set up Python, VS Code and the terminal.
 [hello.py](hello.py) runs.
 
+## Week 6
+
+Set up the project with uv and added pandas.
+[check.py](check.py) prints the pandas version.
 
 
 

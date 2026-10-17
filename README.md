@@ -27,7 +27,22 @@ This is a proximity result, not the final flood-risk result, the hazard model st
 
 Map: ![water_buffer_exposure.png](maps/water_buffer_exposure.png)
 
-## What's in here
+# Month 2: Development Environment and Early Python
+
+## Week 5: The Terminal and VS Code
+
+Set up Python, VS Code and the terminal. [hello.py](hello.py) runs.
+
+## Week 6: Environment and Project Setup with uv
+
+Set up the project with uv and added pandas.
+[check.py](check.py) prints the pandas version.
+
+## Week 7: Python, The Six Ideas 
+
+[analyse.py](analyse.py) reads [wards.csv](wards.csv), converts each area and classifies each ward.
+
+# What's in here
 
 ```
 GeoDev_Lab_Project/
@@ -43,7 +58,17 @@ GeoDev_Lab_Project/
 │   └── water_buffer_analysis.gpkg                   Week 4 output
 ├── maps/                                
 │   └── water_buffer_exposure.png                    exported map images
-├── scripts/                                         codes/notebooks
+├── screenshots/
+│   ├── week5.png                                    Week 5
+│   ├── week6.png                                    Week 6
+│   └── week7.png                                    Week 7
+├── scripts/
+│   ├── analyse.py                                   reads wards.csv
+│   ├── check.py                                     imports and prints pandas version
+│   └── hello.py                                     prints a message to check that Python runs
+├── pyproject.toml                                   project metadata
+├── uv.lock                                          records dependency versions for uv
+├── wards.csv                                        example dataset
 └── requirements.txt                                 required libaries
 ```
 
@@ -58,27 +83,15 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-The data is not in this repository. Every source is linked in [the project brief](docs/01-project-brief.md), so anyone can fetch it.
-
 ## Progress
 
 - [x] Week 1, project brief with a source link for every dataset
 - [x] Week 2, data downloaded, opened and described
 - [x] Week 3, reprojected, clipped and quality checked
 - [x] Week 4, first spatial analysis, checked four ways
-
-# Month 2: Development Environment and Early Python
-
-## Week 5
-
-Set up Python, VS Code and the terminal.
-[hello.py](hello.py) runs.
-
-## Week 6
-
-Set up the project with uv and added pandas.
-[check.py](check.py) prints the pandas version.
-
+- [x] Week 5, the terminal and VS Code
+- [x] Week 6, environment and project setup with uv
+- [x] Week 7, python, the six ideas
 
 
 Akanbi Saheedat · GeoDev Lab Africa

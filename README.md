@@ -31,16 +31,16 @@ Map: ![water_buffer_exposure.png](maps/water_buffer_exposure.png)
 
 ## Week 5: The Terminal and VS Code
 
-Set up Python, VS Code and the terminal. [hello.py](hello.py) runs.
+Set up Python, VS Code and the terminal. [hello.py](scripts/hello.py) runs.
 
 ## Week 6: Environment and Project Setup with uv
 
 Set up the project with uv and added pandas.
-[check.py](check.py) prints the pandas version.
+[check.py](scripts/check.py) prints the pandas version.
 
 ## Week 7: Python, The Six Ideas 
 
-[analyse.py](analyse.py) reads [wards.csv](wards.csv), converts each area and classifies each ward.
+[analyse.py](scripts/analyse.py) reads [wards.csv](wards.csv), converts each area and classifies each ward.
 
 # What's in here
 

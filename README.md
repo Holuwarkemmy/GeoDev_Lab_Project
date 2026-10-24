@@ -42,6 +42,10 @@ Set up the project with uv and added pandas.
 
 [analyse.py](scripts/analyse.py) reads [wards.csv](wards.csv), converts each area and classifies each ward.
 
+## Week 8: Python, Files and Data
+
+[inspect_data.py](scripts/inspect_data.py) summarises block_area_sqm and building_count in [Eti_Osa_settlement_extents.csv](data/processed/Eti_Osa_settlement_extents.csv). 
+
 # What's in here
 
 ```
@@ -65,7 +69,8 @@ GeoDev_Lab_Project/
 ├── scripts/
 │   ├── analyse.py                                   reads wards.csv
 │   ├── check.py                                     imports and prints pandas version
-│   └── hello.py                                     prints a message to check that Python runs
+│   ├── hello.py                                     prints a message to check that Python runs
+│   └── inspect_data.py                              inspects settlements_extents.csv
 ├── pyproject.toml                                   project metadata
 ├── uv.lock                                          records dependency versions for uv
 ├── wards.csv                                        example dataset
@@ -92,6 +97,7 @@ pip install -r requirements.txt
 - [x] Week 5, the terminal and VS Code
 - [x] Week 6, environment and project setup with uv
 - [x] Week 7, python, the six ideas
+- [x] Week 8, python, files and data
 
 
 Akanbi Saheedat · GeoDev Lab Africa

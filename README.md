@@ -44,7 +44,14 @@ Set up the project with uv and added pandas.
 
 ## Week 8: Python, Files and Data
 
-[inspect_data.py](scripts/inspect_data.py) summarises block_area_sqm and building_count in [Eti_Osa_settlement_extents.csv](data/processed/Eti_Osa_settlement_extents.csv). 
+[inspect_data.py](scripts/inspect_data.py) summarises `block_area_sqm` and `building_count` in [Eti_Osa_settlement_extents.csv](data/processed/Eti_Osa_settlement_extents.csv). 
+
+## Week 9: Consolidation and Refactoring
+[summary.py](scripts/summary.py) read the [Eti_Osa_settlement_extents.csv](data/processed/Eti_Osa_settlement_extents.csv), clean numeric values and calculate the count, minimum, maximum, and average values for `block_area_sqm` and `building_count`.
+
+## Month 2 Reflection
+
+The concept of breaking tasks into functions became clearer through summarising multiple CSV columns using reusable steps. The capstone demonstrates the value of Month 1 settlement data beyond mapping through numerical attribute summaries. Month 1 established spatial proximity results, while Python summaries provide additional insight into settlement attributes.
 
 # What's in here
 
